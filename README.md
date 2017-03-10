@@ -2,7 +2,9 @@
 This web app demonstrates 360 photos in AltspaceVR.
 
 ## Demo
-Start AltspaceVR and load `https://altspacevr.github.io/photo-viewer/public/?360&flickr&button` in an enclosure.
+Start AltspaceVR and load 
+[`https://altspacevr.github.io/photo-viewer/public/?360&flickr&button`](https://altspacevr.github.io/photo-viewer/public/?360&flickr&button)
+in an enclosure.
 
 ## Develop
 - See `public/index.html` and `src/main.js` for source code.
@@ -14,4 +16,6 @@ $ npm install
 $ npm run build
 $ npm run serve
 ```
-- Start AltspaceVR and load `http://localhost:8000/public/?360&flickr&button` in an enclosure.
+- Start AltspaceVR and load 
+[`http://localhost:8000/public/?360&flickr&button`](http://localhost:8000/public/?360&flickr&button)
+in an enclosure.
